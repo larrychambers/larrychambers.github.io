@@ -3,7 +3,8 @@ layout: post
 title:  "Betrayal of Vietnam & Cambodia 1945 -One Man’s Journey into the Past To Reveal a Shameful Truth"
 date:   2016-12-02 10:49:39 +0700
 cover: y8Tu73bxazw.jpg
-categories: jekyll update
+amazon: "https://www.amazon.com/Betrayal-Vietnam-1945-Veterans-Journey-ebook/dp/B01APIXYCW/ref=asap_bc?ie=UTF8"
+categories: book
 ---
 
 Betrayal of Vietnam 1945 solves one the great mysteries of the 21st century and explains why we were really there.  This is a story about one man’s quest to find the truth. It is also the story about the discovery of America’s hidden historical events that took place in Vietnam in 1941-45 but were hidden from public view and the consequences were experienced twenty years later resulting in the Vietnam War.
@@ -22,4 +23,4 @@ The last part of the book is about the Perfidy of Cambodia documenting the event
 
 The book is a mythic travelogue of soul-searching and self-discovery which ends by the author retuning to help the people he had harmed. In the end he finds salvation and redemption.
 
-# Retail price $14.00 Printed eBook is $9.00
+### Retail price $14.00 Printed eBook is $9.00
