@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Betrayal of Vietnam & Cambodia 1945 -One Man’s Journey into the Past To Reveal a Shameful Truth"
-date:   2016-12-02 10:49:39 +0700
+date:   2016-12-02 10:00:00 +0700
 cover: y8Tu73bxazw.jpg
 amazon: "https://www.amazon.com/Betrayal-Vietnam-1945-Veterans-Journey-ebook/dp/B01APIXYCW/ref=asap_bc?ie=UTF8"
 categories: book
@@ -23,4 +23,4 @@ The last part of the book is about the Perfidy of Cambodia documenting the event
 
 The book is a mythic travelogue of soul-searching and self-discovery which ends by the author retuning to help the people he had harmed. In the end he finds salvation and redemption.
 
-### Retail price $14.00 Printed eBook is $9.00
+### Betrayal of Vietnam & Cambodia 1945 -One Man’s Journey into the Past To Reveal a Shameful Truth
