@@ -2,6 +2,7 @@
 layout: post
 title:  "Betrayal of Vietnam & Cambodia 1945 -One Man’s Journey into the Past To Reveal a Shameful Truth"
 date:   2016-12-02 10:49:39 +0700
+cover: y8Tu73bxazw.jpg
 categories: jekyll update
 ---
 
