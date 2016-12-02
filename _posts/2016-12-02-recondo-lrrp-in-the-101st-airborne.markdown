@@ -12,3 +12,7 @@ Author Larry Chambers vividly describes the guts and courage it took to pass the
 What most distinguished the Special Forces Recondo School from any other in the history of the American military was its final exam -- a reconnaissance mission deep within enemy territory, miles from friendly ground troops, and with absolutely no support.  It was a trial by fire, where students were sometimes wounded or killed.  That’s how Recondo School got its reputation as the “deadliest school on earth”.  
 
 ### Recondo - LRRP in the 101st Airborne -(Paperback)
+
+<a class="btn " href="https://www.amazon.com/Recondo-LRRPs-Airborne-Larry-Chambers-ebook/dp/B0049P1M0O/ref=asap_bc?ie=UTF8" target="_blank">
+  <img src="{{ site.url }}/images/amazon-underground-app-us-white.png" alt="">
+</a>
