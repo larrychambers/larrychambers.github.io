@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    {% include head.html %}
+    <style media="screen">
+      body { padding-top: 70px; }
+    </style>
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div class="container-fluid hidden-xs" style="margin-top: -20px; height: 420px; margin-bottom: 20px; background: url('{{ site.url }}/images/angkor_wat.jpg') no-repeat; background-size: cover;"> </div>
+    <div class="container">
+      <h1 class="text-center">{{ page.title }}</h1>
+      <br>
+      {{ content }}
+    </div>
+    {% include foot.html %}
+  </body>
+</html>
