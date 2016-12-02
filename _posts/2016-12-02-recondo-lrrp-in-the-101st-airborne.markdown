@@ -13,6 +13,6 @@ What most distinguished the Special Forces Recondo School from any other in the 
 
 ### Recondo - LRRP in the 101st Airborne -(Paperback)
 
-<a class="btn " href="https://www.amazon.com/Recondo-LRRPs-Airborne-Larry-Chambers-ebook/dp/B0049P1M0O/ref=asap_bc?ie=UTF8" target="_blank">
+<a class="btn btn-amazon" href="https://www.amazon.com/Recondo-LRRPs-Airborne-Larry-Chambers-ebook/dp/B0049P1M0O/ref=asap_bc?ie=UTF8" target="_blank">
   <img src="{{ site.url }}/images/amazon-underground-app-us-white.png" alt="">
 </a>

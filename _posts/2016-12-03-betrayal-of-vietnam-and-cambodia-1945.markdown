@@ -25,6 +25,6 @@ The book is a mythic travelogue of soul-searching and self-discovery which ends 
 
 ### Betrayal of Vietnam & Cambodia 1945 -One Man’s Journey into the Past To Reveal a Shameful Truth
 
-<a class="btn " href="https://www.amazon.com/Betrayal-Vietnam-1945-Veterans-Journey-ebook/dp/B01APIXYCW/ref=asap_bc?ie=UTF8" target="_blank">
+<a class="btn btn-amazon" href="https://www.amazon.com/Betrayal-Vietnam-1945-Veterans-Journey-ebook/dp/B01APIXYCW/ref=asap_bc?ie=UTF8" target="_blank">
   <img src="{{ site.url }}/images/amazon-underground-app-us-white.png" alt="">
 </a>

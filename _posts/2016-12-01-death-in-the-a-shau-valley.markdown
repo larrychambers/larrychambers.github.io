@@ -11,6 +11,6 @@ Larry Chambers was still new to Vietnam in early 1969 when the LRRPs of the 101s
 
 ### Death in the A Shau Valley: L Company LRRPs in Vietnam, 1969-1970 (Paperback)
 
-<a class="btn " href="https://www.amazon.com/Death-Shau-Valley-Company-1969-1970/dp/0804115753/ref=asap_bc?ie=UTF8" target="_blank">
+<a class="btn btn-amazon" href="https://www.amazon.com/Death-Shau-Valley-Company-1969-1970/dp/0804115753/ref=asap_bc?ie=UTF8" target="_blank">
   <img src="{{ site.url }}/images/amazon-underground-app-us-white.png" alt="">
 </a>
