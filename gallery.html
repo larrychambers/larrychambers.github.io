@@ -6,7 +6,7 @@ permalink: /gallery/
 
 <div id="gallery-parent">
   <div class="row" id="gallery-viewer">
-    <!-- <div class="col-xs-6 col-md-3">
+    <!-- <div class="col-xs-12 col-md-3">
       <a href="#" class="thumbnail">
         <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image1.jpeg" alt="">
       </a>
@@ -50,7 +50,7 @@ permalink: /gallery/
   var gallerys;
   $(document).ready(function() {
     var template = '<div class="row">'+
-      '<div class="col-xs-6 col-md-3">'+
+      '<div class="col-xs-12 col-md-3">'+
         '<a href="#" class="thumbnail">'+
           '<img class="img-responsive img-rounded" style="" src="" alt="">'+
         '</a>'+
@@ -82,7 +82,7 @@ permalink: /gallery/
       $.each(successData, function(index, gallery) {
         console.log(gallery);
         $('#gallery-viewer').append(
-          '<div class="col-xs-6 col-md-3">'+
+          '<div class="col-xs-12 col-md-3">'+
             '<a onclick="preview('+index+')" class="thumbnail" style="height: 320px; cursor: pointer; background: url('+gallery.url+')" no-repeat; background-size: cover;>'+
               // '<img class="img-responsive img-rounded" style="" src="'+gallery.url+'" alt="">'+
               '<h3 style="'+style+'">'+gallery.name+'</h3>'+
