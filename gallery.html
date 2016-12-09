@@ -4,77 +4,16 @@ title: Gallery
 permalink: /gallery/
 ---
 
-<div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image1.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image2.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image3.jpg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image4.png" alt="">
-    </a>
+<div id="gallery-parent">
+  <div class="row" id="gallery-viewer">
+    <!-- <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail">
+        <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image1.jpeg" alt="">
+      </a>
+    </div> -->
   </div>
 </div>
-<div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image5.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image6.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image7.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image8.jpeg" alt="">
-    </a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image9.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image10.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image11.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image12.jpeg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img class="img-responsive img-rounded" style="" src="{{ site.url }}\images\media\image13.jpeg" alt="">
-    </a>
-  </div>
-</div>
+
 
 
 <div id="preview" class="modal fade" tabindex="-1" role="dialog">
@@ -82,29 +21,40 @@ permalink: /gallery/
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Modal title</h4>
+        <h4 class="modal-title"></h4>
       </div>
       <div class="modal-body">
         <div class="row">
-          <div class="col-xs-12 col-sm-4">
-            panel left
+          <div class="col-xs-12">
+            <img id="imagePreview" class="img-responsive" style="margin: 0 auto;" src="" alt="">
           </div>
-          <div class="col-xs-12 col-sm-8">
-            panel right
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-xs-12">
+            <p style="font-size: 16px;" id="description"></p>
           </div>
         </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
 <script type="text/javascript">
+  var gallerys;
   $(document).ready(function() {
-    var gallery;
+    var template = '<div class="row">'+
+      '<div class="col-xs-6 col-md-3">'+
+        '<a href="#" class="thumbnail">'+
+          '<img class="img-responsive img-rounded" style="" src="" alt="">'+
+        '</a>'+
+      '</div>'+
+    '</div>';
+
     $.ajax({
       url: '/gallery.json',
       type: 'GET',
@@ -112,21 +62,59 @@ permalink: /gallery/
     })
     .done(function(successData) {
       console.log("success");
-      console.log(successData);
+      // console.log(successData);
+      gallerys = successData;
+      var style = [
+        "color: #000",
+        "font-size: 18px",
+        "position: absolute",
+        "bottom: 30px",
+        "left: 35px",
+        "background: white",
+        "padding: 5px 10px",
+        "width: 215px",
+        "border: 1px solid #ccc"
+      ];
+      style = style.join(';');
+
+      $.each(successData, function(index, gallery) {
+        console.log(gallery);
+        $('#gallery-viewer').append(
+          '<div class="col-xs-6 col-md-3">'+
+            '<a onclick="preview('+index+')" class="thumbnail" style="height: 320px; cursor: pointer; background: url('+gallery.url+')" no-repeat; background-size: cover;>'+
+              // '<img class="img-responsive img-rounded" style="" src="'+gallery.url+'" alt="">'+
+              '<h3 style="'+style+'">'+gallery.name+'</h3>'+
+            '</a>'+
+          '</div>'
+        );
+      });
+
     })
     .fail(function() {
       console.log("error");
     })
-    .always(function(data) {
+    .always(function() {
       console.log("complete");
-      console.log(data.responseText);
     });
 
-
-    $('.thumbnail').on('click', function(event) {
-      event.preventDefault();
-      /* Act on the event */
-      $('#preview').modal();
-    });
   });
+
+  function preview(a) {
+    $('#preview').modal();
+    console.log(gallerys);
+    // modal-title
+    // imagePreview
+    // description
+
+    $('.modal-title').text(
+      gallerys[a].name
+    );
+    $('#description').text(
+      gallerys[a].description
+    );
+    $('#imagePreview').attr(
+      'src',
+      gallerys[a].url
+    );
+  }
 </script>
