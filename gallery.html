@@ -32,8 +32,8 @@ permalink: /gallery/
         <br>
         <div class="row">
           <div class="col-xs-12">
-            <h3 id="imagePrice"></h3>
-            <h4 id="imageType"></h4>
+            <h3 class="text-center" id="imagePrice"></h3>
+            <h4 class="text-center" id="imageType"></h4>
             <p style="font-size: 16px;" id="description"></p>
           </div>
         </div>
@@ -103,7 +103,7 @@ permalink: /gallery/
 
   function preview(a) {
     $('#preview').modal();
-    console.log(gallerys);
+    // console.log(gallerys);
     // modal-title
     // imagePreview
     // description
@@ -111,8 +111,8 @@ permalink: /gallery/
     // imageType
 
     $('.modal-title').text( gallerys[a].name );
-    $('#imagePrice').text( 'Price: '+gallerys[a].price );
-    $('#imageType').text( 'Type: '+gallerys[a].type );
+    $('#imagePrice').text( gallerys[a].price );
+    $('#imageType').text( gallerys[a].type );
     $('#description').text( gallerys[a].description );
     $('#imagePreview').attr( 'src', gallerys[a].url );
   }
