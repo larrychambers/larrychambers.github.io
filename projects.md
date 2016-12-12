@@ -5,11 +5,22 @@ permalink: /projects/
 ---
 
 **The Hidden History Project**
-This is a privately funded nonprofit without 501(c 3) status with the IRS, whose mission is to research the multi-generational effects of U.S. military action upon the countries, populations, and cultures that we once believed to be enemies of the United States of America Link
+This is a privately funded nonprofit without 501(c 3) status with the IRS, whose mission is to research the multi-generational effects of U.S. military action upon the countries, populations, and cultures that we once believed to be enemies of the United States of America
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y8Tu73bxazw" allowfullscreen></iframe>
+</div>
 
 **The Education Fund**
 <img class="pull-left img-responsive img-rounded" style="height: 250px; margin: 5px;" src="{{ site.url }}/images/the_edu_fund.jpg" alt="Author"/>
-Chambers has used his own funds to support these Khmer girls in order to give them the opportunity to learn English and to change the direction of their lives. Education is the great equalizer. Link
+
+Chambers has used his own funds to support these Khmer girls in order to give them the opportunity to learn English and to change the direction of their lives. Education is the great equalizer.
+
+<br><br><br><br>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Tv8PkU6KPfI" allowfullscreen></iframe>
+</div>
+
 
 **Helping Vietnam Find their Missing Soldiers**
 
@@ -18,9 +29,14 @@ For the last twenty years the Vietnamese government has actively helped in U.S. 
 In April 2016 Chambers flew to Hanoi to meet with Ngo Thi Thu Hang, the Director of a private center collecting information on Vietnamese killed in the American War. Her organization is called MARIN, meaning Martyr Information.
 <img class="pull-right img-responsive img-rounded" style="height: 250px; margin: 5px;" src="{{ site.url }}/images/helping_vn_find_their_missing_soldiers.jpg" alt="Author"/>
 
-In March 2016, Chambers traveled to the Rung Rung valley, with the help of his guide Mr. Duc, they searched for the gravesite of the ambush Chambers had wrote about in his earlier book Recondo. “I did not find the gravesite, but I did find the names and matching dates of the soldier we may have killed on my LURP team’s ambush” Link
+In March 2016, Chambers traveled to the Rung Rung valley, with the help of his guide Mr. Duc, they searched for the gravesite of the ambush Chambers had wrote about in his earlier book Recondo. “I did not find the gravesite, but I did find the names and matching dates of the soldier we may have killed on my LURP team’s ambush”
 
 We had our first success and found, (with the help of a friend) a lost Vietnamese military graveyard, in Khum Chbar Ampou, Phnom Penh.
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pw6DdtoZZI8" allowfullscreen></iframe>
+</div>
+
 
 This grave site would have been impossible to find because the site is not visible from the streets if not for Sany Sinary who remembered people talking about the location and she took me there. The people living on the site told her this was once where Vietnam army buried their dead. Now only very poor Cambodian families make their homes amongst the crypts.   Some have tombs inside their homes and have made beds on the tops of the graves.
 
@@ -36,4 +52,8 @@ The objective will be to teach Cambodian students how to make short documentary 
 Most family history is past down to the next generation by grand-mams telling stories, or letters, family photograph albums but those were lost or destroyed by Pol Pot’s regime.  The Cambodia Family History Initiative mission is to return to Cambodia with a program to teach young Cambodia students or film students how to document their family’s history in their voice.  It would teach them film making while helping to restore Cambodia's missing past.
 
 **Documentary Film Project — the Secrets of the Ho Chi Minh Trail**
-This project is still in the planning stages. The idea is to invite three of my former ranger teammates to travel the infamous and foreboding Ho Chi Minh trail, traversing the rough terrain on dirt bikes. Over the course of ten episodes, the team will skirt around rusted tanks, unexploded ordinance, and very alive jungle cats in some of the most remote parts of Laos as the team attempts to shed light on the hidden truths that are so completely opposite to almost everything Americans have been led to believe about the war, the country, and the people: Link
+This project is still in the planning stages. The idea is to invite three of my former ranger teammates to travel the infamous and foreboding Ho Chi Minh trail, traversing the rough terrain on dirt bikes. Over the course of ten episodes, the team will skirt around rusted tanks, unexploded ordinance, and very alive jungle cats in some of the most remote parts of Laos as the team attempts to shed light on the hidden truths that are so completely opposite to almost everything Americans have been led to believe about the war, the country, and the people:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9IBrBGBEgj8" allowfullscreen></iframe>
+</div>
