@@ -38,8 +38,10 @@ In 2005 Chambers was named as a Marketing Guru by the editors at Investment Advi
 <b> Affiliations: </b> He’s an advisory board member for the Journal of Retirement Planning, the Journal of Investing and Business and Economics columnist for the Honor Society of Phi Kappa Phi Forum.  Vetrepreneur (magazine for military Veterans who own a business) Contributing editor for Investment Advisor magazine; and Wealth Manager; contributing editor Financial Planning, On Wall Street, Registered Representative, and on the editorial advisory board at Pension World magazine.<br>
 <br>
 
-Military Service: Chambers was a U.S. Army sergeant in L Co 75th Rangers, 101st Airborne Division and F Co 58th Inf LRP 1968-69.<br>
+<b> Military Service:</b> Chambers was a U.S. Army sergeant in L Co 75th Rangers, 101st Airborne Division and F Co 58th Inf LRP 1968-69.<br>
 <br>
+
+During his combat tours in Vietnam, he was a point man on US Army Ranger team working behind enemy lines, survived a helicopter crash, enemy ambush, hit by lightning and captured an NVA officer alive.  His exploits were chronicled in his two autobiographical books Recondo; LRRP in the 101st Airborne <a href="https://www.amazon.com/Recondo-LRRPs-Airborne-Larry-Chambers-ebook/dp/B0049P1M0O/ref=asap_bc?ie=UTF8" target="_blank"><b>link</b></a> Death in the A Shau Valley: L Company LRRPs in Vietnam, 1969-1970 (Paperback link). If you want to know more about Chambers projects visit his website (link).
 
 
 
