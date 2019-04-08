@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:<p> <h1> <b>About Larry Chambers</b> </h1>  </p>
 permalink: /about/
 ---
 
