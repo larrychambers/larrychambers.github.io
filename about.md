@@ -9,7 +9,6 @@ permalink: /about/
     
  <b>LARRY CHAMBERS</b> is a self-taught hyperactive dyslexic bestselling writer who has written 50 books published by some of the largest publishers in the world, including Random House, Ivy Books, McGraw-Hill, Times Mirror, and John Wiley and Sons. He’s a teacher, mentor, artist and entrepreneur.
 
-
 A native of California, Chambers earned Bachelor of Science, and Master’s Degrees at the University of Utah; He is a member Phi Kappa Phi Honor Society. He also has a degree in Sociology and has studied Screenwriting at UCLA and Creative Writing at the Iowa Writers Conference.  
  
 
