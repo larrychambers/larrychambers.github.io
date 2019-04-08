@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="pull-left img-responsive img-rounded" style="height: 250px; margin-top: 15px; padding-right: 10px;" src="{{ site.url }}/images/author.png" alt="Author"/>
 
-LARRY CHAMBERS is a narrative nonfiction author, artist and humanitarian. A native of southern California, he earned a Master’s Degree from the University of Utah.  
+LARRY CHAMBERS is a narrative nonfiction author, artist and humanitarian. A native of southern California, he earned a Master’s Degree from the University of Utah. Testing 
 
 Chambers was an Army Rangers and wrote two books his tours in Vietnam. His most recent book Betrayal of Vietnam & Cambodia 1945- 1967 tells the gripping story of his journey back into the past to reveal a shameful truth Link.
 
