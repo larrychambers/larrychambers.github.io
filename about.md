@@ -41,7 +41,31 @@ In 2005 Chambers was named as a Marketing Guru by the editors at Investment Advi
 <b> Military Service:</b> Chambers was a U.S. Army sergeant in L Co 75th Rangers, 101st Airborne Division and F Co 58th Inf LRP 1968-69.<br>
 <br>
 
-During his combat tours in Vietnam, he was a point man on US Army Ranger team working behind enemy lines, survived a helicopter crash, enemy ambush, hit by lightning and captured an NVA officer alive.  His exploits were chronicled in his two autobiographical books Recondo; LRRP in the 101st Airborne <a href="https://www.amazon.com/Recondo-LRRPs-Airborne-Larry-Chambers-ebook/dp/B0049P1M0O/ref=asap_bc?ie=UTF8" target="_blank"><b>(link)</b></a> Death in the A Shau Valley: L Company LRRPs in Vietnam, 1969-1970 (Paperback link). If you want to know more about Chambers projects visit his website (link).
+During his combat tours in Vietnam, he was a point man on US Army Ranger team working behind enemy lines, survived a helicopter crash, enemy ambush, hit by lightning and captured an NVA officer alive.  His exploits were chronicled in his two autobiographical books Recondo; LRRP in the 101st Airborne <a href="https://www.amazon.com/Recondo-LRRPs-Airborne-Larry-Chambers-ebook/dp/B0049P1M0O/ref=asap_bc?ie=UTF8" target="_blank"><b>link</b></a> Death in the A Shau Valley: L Company LRRPs in Vietnam, 1969-1970 Paperback <a href="https://www.amazon.com/Death-Shau-Valley-Company-1969-1970/dp/0804115753/ref=asap_bc?ie=UTF8" target="_blank"><b>link</b></a>. If you want to know more about Chambers projects visit his website <a href="http://www.larry-chambers.com/" target="_blank"><b>link</b></a>.<br>
+<br>
+
+<b>Combat Awards;</b> Purple Heart, two Bronze Stars, two Air Medals; Combat Infantryman’s Badge; Parachute Badge; ARCOM Medal; Vietnam Cross of Gallantry, Vietnam Service, National Defense, Good Conduct, and Vietnam Campaign Metals.  Recondo Badge & Expert Shooting Badges; Rifle, Machine Gun, Auto.<br>
+<br>
+
+<b>Military Training:</b> qualified US Army paratrooper.  Expert marksman metal in Automatic M-16, M-14 and Machine gun. He’s a graduate of RS-17-69; 5th Special Force Group MACV Recondo Number (1983) and Toshin Tanto Ryn.<br>
+<br>
+
+<b>Memberships:</b> ARRP, Life member 101st Abn Ass. and U.S. Army Ranger Ass., Military Order of the Purple Heart , and 75th Ranger Association.<br>
+<br>
+
+<b>Background:</b> He played football, basketball, track and boxing in High school and college.  His first business was mowing neighbors lawns. In high school he worked at a dairy, picking fruit and mixed and delivering feed to neighboring ranches. He attended Shasta Community College, spent his summers in the Forest Service on the Mendocino and Shasta Trinity National Forests.<br>
+<br>
+
+After his tour in Vietnam he attended the University of Utah and worked as a Special Ed coach; senior counselor at the Utah Boys Ranch (1972-73) Volunteer as an assistant for the Special Olympics. A PSIA (Professional Ski Instructors of America) and taught skiing for the University of Utah and Park City.<br>
+<br>
+
+His daughter Christin is a singer, song writer and realty show story line producer living in Burbank, CA, with her husband Adam. His son Logan Chambers has BS in Marine Biology and Master’s Degree in Education from UCSC and is also dyslexic. He was a California State Beach Life Guard, a science teacher, and independent film surf producer.<br>
+<br>
+
+<b>Rotary Club</b>
+Chambers has been elected as president of the Phnom Penh Rotary Club for 2020
+
+
 
 
 
