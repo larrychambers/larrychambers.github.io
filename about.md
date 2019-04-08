@@ -6,9 +6,9 @@ permalink: /about/
 
 <img class="pull-left img-responsive img-rounded" style="height: 250px; margin-top: 15px; padding-right: 10px;" src="{{ site.url }}/images/author.png" alt="Author"/>
 
-LARRY CHAMBERS is a narrative nonfiction author, artist and humanitarian. A native of southern California, he earned a Master’s Degree from the University of Utah. Testing 
+LARRY CHAMBERS is a self-taught hyperactive dyslexic bestselling writer who has written 50 books published by some of the largest publishers in the world, including Random House, Ivy Books, McGraw-Hill, Times Mirror, and John Wiley and Sons. He’s a teacher, mentor, artist and entrepreneur. 
 
-Chambers was an Army Rangers and wrote two books his tours in Vietnam. His most recent book Betrayal of Vietnam & Cambodia 1945- 1967 tells the gripping story of his journey back into the past to reveal a shameful truth Link.
+A native of California, Chambers earned Bachelor of Science, and Master’s Degrees at the University of Utah; He is a member Phi Kappa Phi Honor Society. He also has a degree in Sociology and has studied Screenwriting at UCLA and Creative Writing at the Iowa Writers Conference.  
 
 Larry has been on a three year mission to research the multi-generational effects of U.S. military action upon the countries, populations, economics, and cultures that he, and many other Americans, once believed to be enemies of America.  
 
