@@ -80,15 +80,20 @@ younger, and a size 4, I used to cold call city managers, mayors, etc. marketing
 
 <b>“</b>I made Larry Chambers book mandatory reading for my Ranger team. I’d quiz my men about what they’d learned; to be bold, daring, tenacious, audacious, and don’t be afraid to make a decision. We went from the worst platoon in the regiment to the best platoon in six months.  In training we’d get to objective so fast they had to hold us back. This book made a difference.” <b> MSG (ret) H. "Mad Max" Mullen </b> 75th Ranger Regiment, Ranger course instructor <br><br>
 
-<b>“</b>Larry - The VA group loved your book. The literary types liked the last couple of lines you wrote about the ancient Roman soldiers living away from the city for the first couple of years back. The room got quiet when they talked about that. Everyone recalled their favorite moments in your book, favorite stories, and everybody commented on the humor and detail you provided. I told them the story your story about Univ of Utah and the kind Dean.  The group actually ran over 30 minutes – that’s a lot of time to stay after work for a group of people who just finished working 8-10 hour shifts. 
+<b>“</b>Larry - The VA group loved your book. The literary types liked the last couple of lines you wrote about the ancient Roman soldiers living away from the city for the first couple of years back. The room got quiet when they talked about that. Everyone recalled their favorite moments in your book, favorite stories, and everybody commented on the humor and detail you provided. I told them the story your story about Univ of Utah and the kind Dean.  The group actually ran over 30 minutes – that’s a lot of time to stay after work for a group of people who just finished working 8-10 hour shifts.<br><br> 
 
+I’m glad a bunch of VA staff (nurses, counselors, psychiatrists, admin people, computer people, etc.) got to read and talk about Recondo and its author, Larry Chambers! <b>Richard C. Katz</b>, Ph.D., CCC-SLP, BC-NCD, is the Chief, Audiology and Speech Pathology Service, Phoenix VA Health Care System, and Adjunct Professor, Arizona State University, Tempe Az. 
 
+<b>“</b>The book is REALLY good larry; my mother that is a VORACIOUS reader like me and who taught me to read said this Below (mind you my Mother god bless her would come up with ANY reason to say it sucked if it did:<br><br> 
 
- 
+"I am really digging this. . . Taking the Heroes Journey and it with the investors self- inventory is quite brilliant. I am only through one third of the book - seems a worthy contribution to this economic conversation that is full of wildly differing lenses. It feels almost holy. I would offer<br><br>  
 
+one idea. . . There are places where the royal "we" could be used instead of 'I" and there are places where I is crucial. Perhaps you might figure out where it becomes more impactful to use this? At any rate, WOW."
+- from mom <h><h1>Ari 2017</h1><br><br> 
 
 
 </p>
+
 
 
 <blockquote>
