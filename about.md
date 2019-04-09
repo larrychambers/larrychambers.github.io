@@ -76,7 +76,11 @@ disadvantage (especially in my market: divorce).  However, when I was
 younger, and a size 4, I used to cold call city managers, mayors, etc. marketing 457 plans.... I got in the door every time.  Loved it Larry, loved it. I am humbly, your #1 fan! <b>Carol</b> 
 
 
-<b>“</b>Larry Chambers’ First Time Investor books offer real-world investment applications in an understandable way” <b>Jack Canfield,</b> Chicken Soup for the Soul, #1 New York Times bestseller.
+<b>“</b>Larry Chambers’ First Time Investor books offer real-world investment applications in an understandable way” <b>Jack Canfield,</b> Chicken Soup for the Soul, #1 New York Times bestseller.<br><br>
+
+<b>“</b>I made Larry Chambers book mandatory reading for my Ranger team. I’d quiz my men about what they’d learned; to be bold, daring, tenacious, audacious, and don’t be afraid to make a decision. We went from the worst platoon in the regiment to the best platoon in six months.  In training we’d get to objective so fast they had to hold us back. This book made a difference.” <b> MSG (ret) H. "Mad Max" Mullen </b> 75th Ranger Regiment, Ranger course instructor <br><br>
+
+<b>“</b>Larry - The VA group loved your book. The literary types liked the last couple of lines you wrote about the ancient Roman soldiers living away from the city for the first couple of years back. The room got quiet when they talked about that. Everyone recalled their favorite moments in your book, favorite stories, and everybody commented on the humor and detail you provided. I told them the story your story about Univ of Utah and the kind Dean.  The group actually ran over 30 minutes – that’s a lot of time to stay after work for a group of people who just finished working 8-10 hour shifts. 
 
 
 
