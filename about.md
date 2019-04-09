@@ -63,7 +63,15 @@ His daughter Christin is a singer, song writer and realty show story line produc
 <br>
 
 <b>Rotary Club</b>
-Chambers has been elected as president of the Phnom Penh Rotary Club for 2020
+Chambers has been elected as president of the Phnom Penh Rotary Club for 2020.<br><br><br>
+
+
+<font size:large>
+    
+What People Say About Larry Chambers
+
+
+</font>
 
 
 
