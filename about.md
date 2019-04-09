@@ -67,8 +67,13 @@ Chambers has been elected as president of the Phnom Penh Rotary Club for 2020.<b
 
 <center>
 <b>What People Say About Larry Chambers</b>
-</center>
+</center><br><br>
 
+
+<b>“</b>Wow! I loved the book idea.  Loved it.  Loved it.  Loved it. I love how you intend to get your point across with the lives of the women.... just excellent.
+You know what's funny, is I don't necessarily look at being a woman as a 
+disadvantage (especially in my market: divorce).  However, when I was 
+younger, and a size 4, I used to cold call city managers, mayors, etc. marketing 457 plans.... I got in the door every time.  Loved it Larry, loved it. I am humbly, your #1 fan! <b>Carol</b> 
 
 
 
