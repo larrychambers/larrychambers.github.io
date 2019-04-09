@@ -76,8 +76,9 @@ disadvantage (especially in my market: divorce).  However, when I was
 younger, and a size 4, I used to cold call city managers, mayors, etc. marketing 457 plans.... I got in the door every time.  Loved it Larry, loved it. I am humbly, your #1 fan! <b>Carol</b> 
 
 
+<b>“</b>Larry Chambers’ First Time Investor books offer real-world investment applications in an understandable way” <b>Jack Canfield,</b> Chicken Soup for the Soul, #1 New York Times bestseller.
 
-<span class="font-size:15px"> Testing </span>
+
 
  
 
