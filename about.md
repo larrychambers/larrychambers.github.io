@@ -102,7 +102,22 @@ As for marketing mistakes, the biggest one, he says, “is to do nothing” and 
 
 <b>“</b>Larry, Last night I drove home and thanked God for our meeting yesterday! It’s been a long time since I’ve met someone that I “look up too.”  I have YOU to thank for that! I’ll never forget the impact of our meeting last night! As far as my rage towards Backwater, Halliburton and KBR, etc…you are right…I need to let it go and focus on myself above all.  I realize that I can’t erase things form my memory but there is balance to everything and that’s what I’m looking for!<b> Brandon</b><br><br> 
 
-<b>“</b>Thanks, Larry. Your message is healing. I don't think it's ever easy to share in public, but as you say, exposure helps get rid of the negative charge around shame. Please keep me posted on your public presentations. I know you'll be at Ojai WordFest soon and I'm hoping my husband can hear you speak then.<br><br>   
+<b>“</b>Thanks, Larry. Your message is healing. I don't think it's ever easy to share in public, but as you say, exposure helps get rid of the negative charge around shame. Please keep me posted on your public presentations. I know you'll be at Ojai WordFest soon and I'm hoping my husband can hear you speak then.<br><br>
+
+Many thanks for all the good work that you do, 
+<h><b><h1>Carolyn Moore Ojai, CA</h1></b>
+
+<b>“</b>Mr. Chambers, Every once in a while there’s a great article from the many trade magazines we get here, as was your recent article, “Fear Is Not A Growth Strategy”. You included some great facts and some great ideas. They’re many things in the article that I’ll do tonight so that we’ll begin to implement tomorrow.  In particular, I like the idea of tribes of people and how advisors seem to appear the same to the general public. <b>Kelli Waller CFA</b><br><br> 
+
+<b>“</b>I loved Recondo and have added it to my special collection, which is why I tracked you down to ask for a signature. You did an incredible job of transporting me to Vietnam; it was like I was on patrol with you. It was one of those rare books that I just couldn’t put down and hated to finish. <b>Kevin Basnight</b><br><br>  
+
+<b>“</b>Larry; I don’t know why other people hire you —But, I think the core reason I hire you is that you empower me and I always feel better about myself, my life, and my prospects after talking to you. I am not sure how you market that but I would argue that ability is far more important than teaching someone the mechanics of attraction marketing. Please understand that I am not denigrating attraction marketing. Rather, lam suggesting that your ability to empower is at the very heart of teaching someone how to do attraction marketing. Phrased another way — I think you have a unique ability to help people discover what about them can be made attractive. <b> J. Wayne Firebaugh Jr., CPA, CFP</b><br><br>
+
+<b>“</b>Amazing! It’s rare that people who actually do things worth writing about actually write about them, and even rarer that they write about them well and usefully. My first writing teacher — the novelist Joyce Carol Oates — used to opine that this was the case because people who did things didn’t need to write about them. In any case, I’m very glad to have read it, and very glad to know you. One of my great regrets is that I never went into the service — knew how hard it would be, and academia is much easier, even though it frequently goes against my grain.
+Thank you very much, <b> Pinckney Iowa Writers Professor</b><br><br>  
+
+<b>“</b>Dear Mr. Chambers  I read all of your books. I just couldn’t believe you got back to me. For me it was like getting reply from Superman. I was raised on stories about Vietnam War and Army Rangers. Poland has always fought against communists, first in WWI than before WWII in 1939 and shortly after the war. There were some guerrilla forces fighting against Soviet Militia and NKVD. In 1956 there was a mutiny in Radom, hundreds of people got on the streets and fought hard against the government. In 1970 there were mutinies in Gdansk, Gdynia, Katowice and other cities. Many civilians died on the streets of Poland. In 1980 Soviet tanks were standing all over Poland,<br><br>   
+
 
 
 
