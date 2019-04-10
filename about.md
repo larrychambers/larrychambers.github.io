@@ -116,9 +116,24 @@ Many thanks for all the good work that you do,
 <b>“</b>Amazing! It’s rare that people who actually do things worth writing about actually write about them, and even rarer that they write about them well and usefully. My first writing teacher — the novelist Joyce Carol Oates — used to opine that this was the case because people who did things didn’t need to write about them. In any case, I’m very glad to have read it, and very glad to know you. One of my great regrets is that I never went into the service — knew how hard it would be, and academia is much easier, even though it frequently goes against my grain.
 Thank you very much, <b> Pinckney Iowa Writers Professor</b><br><br>  
 
-<b>“</b>Dear Mr. Chambers  I read all of your books. I just couldn’t believe you got back to me. For me it was like getting reply from Superman. I was raised on stories about Vietnam War and Army Rangers. Poland has always fought against communists, first in WWI than before WWII in 1939 and shortly after the war. There were some guerrilla forces fighting against Soviet Militia and NKVD. In 1956 there was a mutiny in Radom, hundreds of people got on the streets and fought hard against the government. In 1970 there were mutinies in Gdansk, Gdynia, Katowice and other cities. Many civilians died on the streets of Poland. In 1980 Soviet tanks were standing all over Poland,<br><br>   
+<b>“</b>Dear Mr. Chambers  I read all of your books. I just couldn’t believe you got back to me. For me it was like getting reply from Superman. I was raised on stories about Vietnam War and Army Rangers. Poland has always fought against communists, first in WWI than before WWII in 1939 and shortly after the war. There were some guerrilla forces fighting against Soviet Militia and NKVD. In 1956 there was a mutiny in Radom, hundreds of people got on the streets and fought hard against the government. In 1970 there were mutinies in Gdansk, Gdynia, Katowice and other cities. Many civilians died on the streets of Poland. In 1980 Soviet tanks were standing all over Poland,<br><br>
 
+soldiers everywhere. It was like Northern Ireland here.  I will do whatever I can to make sure that people will not forget about you guys. Regards 
+<b>Pawel Zegarlinski Poland</b><br><br>
 
+<b>“</b>Chambers talks of high productivity manufacturing technology spreading throughout the world wrote the led story for January 1990 issue of Pension Asia, and companies operating on a global scale relentless global competition  and increases in real world output. All of that leads Chambers to suggest a future that holds a 5,000 Dow and 5 percent interest rates.   <b>Ed LaBorwit </b>Editor-in-Chief Pension World 1990<br><br>
+
+<b>“</b>We began 2000 with approximately $1.9 billion in assets under management.  By 2005, that figure had grown to $11 billion and one year later we reached 20 billion.  Our marketing theme at Thornburg is to build product visibility, primarily by demonstrating value by educating advisors. We are a small mutual fund company located in Santa Fe, New Mexico, who has the same visibility of a much larger organization.  We have accomplished this by combining our internal marketing department and The Larry Chambers’ Credibility Marketing Program —writing articles and books directed to educate our market. I believe this is the secret to growth.
+-<b>Ken Ziesenheim</b>, President of Thornburg Securities and Managing Director of Thornburg Investment Management Company. Santa Fe, New Mexico
+
+ <b>“</b>One of the most valuable experiences I’ve had in my professional life was to slow down, step back, and chart exactly where I am, where I’m going, what tools , techniques and processes I’m going to use to get there—and then lay it over a timeline: one year, three years, five years, 25 years, and life.  Without Larry’s help, I never would have taken the time to stop, think about it, map it and implement it—the conclusion of which is my book, Surviving the Storm, now in worldwide release. 
+ <b>James O. Lunney</b>, Linsco/Private Ledger (LPL) Denver, CO<br><br>
+
+<b>“</b>We started a brand new company and turned to the author to help us get our name known in the industry.  Within two years, Lockwood Financial Group became a brand name in the money management industry.  A big part of our success is due to Larry’s efforts and the use of Larry’s strategies to publicize our firm.”
+<b>Len Reinhart, CEO and Chairman of Lockwood Financial Group<br><br>
+
+<b>“</b>We estimate that The Larry Chambers Company’s marketing program accounted for an additional $15 million dollars of value to our firm. In fact, the company that bought us was outside the United States and had found us by reading one our articles. Enough said. <b> John Bowen President</b> CEG Worldwide 
+“We’ve picked up 50% more clients with three times the average account size after writing a series of article and a book, Building a World –Class Financial Service<br><br> 
 
 
 
