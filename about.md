@@ -89,7 +89,7 @@ I’m glad a bunch of VA staff (nurses, counselors, psychiatrists, admin people,
 "I am really digging this. . . Taking the Heroes Journey and it with the investors self- inventory is quite brilliant. I am only through one third of the book - seems a worthy contribution to this economic conversation that is full of wildly differing lenses. It feels almost holy. I would offer<br><br>  
 
 one idea. . . There are places where the royal "we" could be used instead of 'I" and there are places where I is crucial. Perhaps you might figure out where it becomes more impactful to use this? At any rate, WOW."
-- from mom <h><h1>Ari 2017</h1><br><br> 
+- from mom<h><h1>Ari 2017</h1></h> 
 
 
 </p>
