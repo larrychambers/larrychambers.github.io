@@ -132,22 +132,11 @@ soldiers everywhere. It was like Northern Ireland here.  I will do whatever I ca
 <b>“</b>We started a brand new company and turned to the author to help us get our name known in the industry.  Within two years, Lockwood Financial Group became a brand name in the money management industry.  A big part of our success is due to Larry’s efforts and the use of Larry’s strategies to publicize our firm.”
 <b>Len Reinhart, CEO and Chairman of Lockwood Financial Group<br><br>
 
-<b>“</b>We estimate that The Larry Chambers Company’s marketing program accounted for an additional $15 million dollars of value to our firm. In fact, the company that bought us was outside the United States and had found us by reading one our articles. Enough said. <b> John Bowen President</b> CEG Worldwide 
-“We’ve picked up 50% more clients with three times the average account size after writing a series of article and a book, Building a World –Class Financial Service<br><br> 
-
-
-
-
-
-
-
-
-
+<b>“</b>We estimate that The Larry Chambers Company’s marketing program accounted for an additional $15 million dollars of value to our firm. In fact, the company that bought us was outside the United States and had found us by reading one our articles. Enough said. <b>John Bowen President</b> CEG Worldwide 
+“We’ve picked up 50% more clients with three times the average account size after writing a series of article and a book, Building a World –Class Financial Service.<br><br> 
 
 
 </p>
-
-
 
 
 
