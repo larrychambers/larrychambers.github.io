@@ -135,11 +135,23 @@ soldiers everywhere. It was like Northern Ireland here.  I will do whatever I ca
 <b>“</b>We estimate that The Larry Chambers Company’s marketing program accounted for an additional $15 million dollars of value to our firm. In fact, the company that bought us was outside the United States and had found us by reading one our articles. Enough said. <b>John Bowen President</b> CEG Worldwide 
 “We’ve picked up 50% more clients with three times the average account size after writing a series of article and a book, Building a World –Class Financial Service.<br><br> 
 
+Business, Dearborn Trade. I now have visibility and expert status recognition and today I’m solicited to give keynote speeches to prospects and clients.  It’s a marketing process that works.”   <b>-Don Schreiber</b> president and CEO of Wealth Builders Inc., a Registered Investment Advisory firm<br><br> 
+
+<b>“</b>I've worked with Larry since my days as an editor at Financial Planning magazine in the mid-80s. I continued to work with him over the next 20 years or so, as a freelance writer when I went to Worth magazine and Dow Jones Investment Advisor. I've recommended Larry for numerous writing/consulting engagements such as with Thornburg Investment Management (where my marriage to one of Thornburg's partners disqualified me). Larry co-authored a number of books and articles for them, including the still highly regarded "Thornburg Guide to ERISA." He's a fine writer, whose real strength is a thorough understanding of the financial services industry and where various companies, products, and players fit into it. Larry's used this expertise to write and publish more than 50 books for his clients over the years. For senior corporate executives looking to brand their expertise and create substantial publicity while doing it, there's no better partner in the business than Larry Chambers. 
+<b>Bob Clark Former editor - Chief Worth Magazine</b><br><br>  
+
+<b>“</b>Larry was responsible for the placement of over 40 articles with me while at AEGON and TIAA-CREF which resulted in over 100 quotes in other articles and books.  His work led to the cover story of Financial Planning about the work we were doing at TIAA-CREF to develop the advisor business.  If you Google Michael Lane AEGON or Michael Lane TIAA-CREF most of the articles you will view were a result of Larry managing relationships on our behalf with industry media.  Larry has the ability to not just help in article writing and placement, but also direct media people to who they should speak with for quotes which created an image in the market, in less than 2 years, that AEGON was the thought leader in the annuity industry.  That has since waned… after I left and they went back to traditional advertising and marketing. 
+<b>-Michael F.</b> Lane Vice-President Dimensional Fund Advisors<br><br> 
+
+<b>“</b>Larry Chambers is the secret weapon behind many of the most successful financial service companies in North America. <b>-Steve Moeller</b> President and CEO, American Business Visions<br><br> 
+ 
+<b>“</b>Larry Chambers has skillfully mastered the art of PR.  His book, just like his articles, captures the true essence of what any professional needs to know to be successful in the area of public relations.
+<b>-Jeffrey H. Rattiner</b>  Editor-in-Chief Financial Advisory Practice<br><br>   
 
 
 
 
-<p>
+
 </p>
 
 
