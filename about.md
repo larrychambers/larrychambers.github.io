@@ -146,7 +146,27 @@ Business, Dearborn Trade. I now have visibility and expert status recognition an
 <b>“</b>Larry Chambers is the secret weapon behind many of the most successful financial service companies in North America. <b>-Steve Moeller</b> President and CEO, American Business Visions<br><br> 
  
 <b>“</b>Larry Chambers has skillfully mastered the art of PR.  His book, just like his articles, captures the true essence of what any professional needs to know to be successful in the area of public relations.
-<b>-Jeffrey H. Rattiner</b>  Editor-in-Chief Financial Advisory Practice<br><br>   
+<b>-Jeffrey H. Rattiner</b>  Editor-in-Chief Financial Advisory Practice<br><br> 
+
+<b>“</b>Having worked with Larry as his editor on several books, I have witnessed first hand Larry’s extensive knowledge of what it takes to become recognized as an expert.  That’s what you will learn in this book.
+<b>-Kevin Commins</b> Senior Acquisitions Editor, CCH Inc.
+
+<b>“</b>Credibility Marketing is the most important product of business success, and Chambers’ book is clear, concise, and infinitely helpful.<b> Chris Bunch,</b> bestselling author of The Seer King Trilogy<br><br> 
+ 
+<b>“</b>We recently completed a tape session on Credibility Marketing--how to use articles and media, with our advisors and representatives. We found Chambers’ ideas and concepts invaluable in growing a financial practice."  
+<b>Deb Hansen,</b> Marketing Manager, American Securities Advisors<br><br>  
+
+<b>“</b>As a consultant and market researcher, knowledgeable of both the financial securities and publishing industries, I realize how rare it is to find a how-to book that really addresses a need the audience has and offers solutions that reader’s can and will be motivated to implement.”<br>  
+<b>Russ Alan Prince,</b> The psychology of the affluent, Cultivating the Affluent<br><br>  
+
+<b>“</b>The credibility marketing system helped me get my first article published.  People associate a level of competency with you that may go far beyond your actual skills and knowledge. 
+<b>Gary Pia Pasadena,</b> CA.<br> 
+<b>“</b>Larry Chambers convinced me there was a better way than self-publishing.  I’m very thankful to Larry for helping us find a publisher and editing our new book, Financial Planning in the Year 2000 and Beyond.” 
+<b>Tom J. Nohr,</b> CFP<br><br> 
+
+<b>“</b>Larry Chambers knows the media and knows what is important for them.  With a wide range of by-lines and several successful books under his belt, he knows how to get the attention of editors.”  <b> Gregory Bresiger,</b> editor, writer
+<b>“</b>After hearing Larry Chambers speak on PR, I put together a folder of articles, some I had written and some about me.  I now hand them to prospects when we first meet.  It takes me past the initial awkward phase of a first meeting.  Instead of me saying, ‘I’m an expert,’ the articles say it for me.  They become my credentials.  It really breaks the ice.  I no longer have to sell them on me.  I’m pre-sold.<br>
+<b>Leon Spheris</b> First Vice President, Dain Rauscher<br><br>
 
 
 
