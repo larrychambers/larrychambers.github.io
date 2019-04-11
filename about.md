@@ -140,13 +140,5 @@ soldiers everywhere. It was like Northern Ireland here.  I will do whatever I ca
 
 
 
-<blockquote>
-  <p>
-    “There's a real story here for everybody."            
-    "Larry, you participated in a national tragedy.  You could define the American experience in the 20th century by the Vietnam War and the splits in this country that it brought to the surface.  Nothing since the Civil War has split this country apart more in terms of brother against brother, mother against son, father against son.  And you were an integral part of that experience.  
-    “Then there are the guys like me – the peacenik draft dodgers, protesting the war and getting laid while or guys like you –where out there killing commies in Vietnam...  But here we are forty years later and appreciating each other's experience and even laughing about them.
-    <br><br>
-    <span class="pull-right">John Fox, therapist, Santa Barbara, California</span>
 
-  </p>
-</blockquote>
+
