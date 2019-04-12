@@ -168,6 +168,35 @@ Business, Dearborn Trade. I now have visibility and expert status recognition an
 <b>“</b>After hearing Larry Chambers speak on PR, I put together a folder of articles, some I had written and some about me.  I now hand them to prospects when we first meet.  It takes me past the initial awkward phase of a first meeting.  Instead of me saying, ‘I’m an expert,’ the articles say it for me.  They become my credentials.  It really breaks the ice.  I no longer have to sell them on me.  I’m pre-sold.<br>
 <b>Leon Spheris</b> First Vice President, Dain Rauscher<br><br>
 
+<b>“</b>I’ve seen first-hand the power of a positive media image in building business success.  Today it’s a matter of survival.  Larry Chambers’ book can put you on top of the pile.”<br>
+<b>Woody Gair,</b> former advertising agency executive vice president<br><br> 
+
+<b>“</b>One simple 750-word foreword in a book became the basis for our entire marketing campaign promoting AFS Financial Advisory Services.  It immediately elevates us above the competition in that we have a lot more credibility.  It has, in a sense, become our business card. <b>Bobbie Glass </b>President of AFS Financial Advisory Services.<br><br>
+
+<b>“</b>The article you helped me with is going to be printed next month in a local small business newspaper here in Scottsdale. Plus, I was quoted three times in the Arizona Republic last month and the editor of WORTH magazine has responded to a query letter and asked for an outline for an article. Thank you, <b>Stephen Lomsdalen,</b> Branch Manager LPL 
+
+<b>“</b>It was fantastic seeing you and the rest of the guys again, after nearly eighteen (18) years! It was long overdue and everyone must have benefited from the experience. After relinquishing command of our Ranger Company and moving up to Division Staff, I lost contact with all of you. However, my mind will never erase the fond memories about one of the finest fighting units that any Army in the history of warfare ever put onto the battlefield.  
+
+Larry, you were, and still are, held in the highest esteem by me and all of the other men in L Company. Several of the guys who were on your “Team” told me many stories of how heroically you performed under fire, and how most of them owe their lives to you! They probably wouldn’t tell you this to your face, bit I thought that you should know it. <b> Ken Eklund Dallas,</b> Texas<br><br>
+
+<b>“</b>Larry sit down ‘cause you’ll swear I’m lying...
+Do you remember me saying, “I will be the poster boy for Credibility Marketing”? Guess what... Just check out this list of accomplishments (10 short months in business and the book is only 6 months old). Note the very first entry. I’m going to be a regular columnist in the largest Ag publication in the nation -1,000,000 circulation! I actually wanted to surprise you with this news by sending my first issue (which I will do), but it doesn’t come out until November. One of the “Big Five” tractor manufacturers), purchased 600 copies for distribution to all corporate management and to attendees at their national convention.<br><br>
+
+California Farm Bureau Federation currently negotiating to purchase 500 copies for distribution to attendees at their, upcoming annual conference.
+Upstate Business Journal: I am a regular columnist for Upstate Business Journal distributed monthly to 14,000’business owners here in the North State.  Farm Journal:<br><br> 
+
+My regular succession planning column premiers in the November 2006 issue.  A feature focusing on my book will also appear in a winter 2006 issue. Farm Journal, with a circulation of about 1 million, is geared to high production agricultural leaders.  I am currently in discussion with the editor of Farm Journal to be involved in the seminar tour and TV appearances.<br> 
+<b>-Kevin Spafford</b><br><br>  
+
+<b>“</b>In 1990 The Institute for Investment Management Consultants (IIMC) had less than 100 members.  Larry Chambers was hired to create a PR program. With the help of two simple Attraction Marketing tactics—writing a monthly column in a trade magazine, and a stay-behind-technique offering a free booklet—the organization’s membership swelled to over 2,000, with a prospect list of 10,000—all without spending a dime on advertising!  Before the Attraction Marketing program, no one had even heard of the Institute. Today, investment professionals and the investing media around the world recognize the IIMC designation.   <b>Dan Bott Chairman IIMC.</b><br><br> 
+
+<b>“</b>Larry - I sent chapter one to a prospective client yesterday. He thought Chapter 1 was written about him and his current problems.  He went from $5.2 to $2.1 million in less than a year. He asked for the rest of the book and transferred his money to me the same day. I hope this is a good sign for the book. <b> Lee Hull</b><br><br> 
+
+<b>“</b>I can’t thank you enough for today. I am STILL on cloud nine and can’t believe the doors that are opening. It is amazing. I just got through sharing with my husband what Mr. Chambers shared with us today. It felt like today was just for me....l hope that the rest of the class learned something as well but my goodness it was a definite eye opener for me. It was kind of scary being so vulnerable about this business with everyone listening but what a great teaching tool. I have always thought that whatever I do should be a help to others. If what I go through can’t help someone else, why do I go through it? So, I pray that the class learned something valuable today as I did. My goodness....such nuggets my cup is overflowing with the information he gave me today. Thanks again. You are amazing.<br>
+<b>Jock’Lene </b>Texas Tech University<br><br> 
+
+<b>“</b>I think your book on the hunter gene will be a gripping read and will hear the shame of many people who have been misunderstood, overmedicated, and misdiagnosed because of their natural perspective on the world. I suspect a book like yours will land you on the reading circuit, so please keep in touch with the progress of your book and I will keep an eye out for you at my local bookstore. With best wishes, <b>Dr. Laura Kerr </b>  Iowa Writers Summer Workshop<br><br> 
+
 
 
 
