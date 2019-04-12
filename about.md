@@ -197,6 +197,32 @@ My regular succession planning column premiers in the November 2006 issue.  A fe
 
 <b>“</b>I think your book on the hunter gene will be a gripping read and will hear the shame of many people who have been misunderstood, overmedicated, and misdiagnosed because of their natural perspective on the world. I suspect a book like yours will land you on the reading circuit, so please keep in touch with the progress of your book and I will keep an eye out for you at my local bookstore. With best wishes, <b>Dr. Laura Kerr </b>  Iowa Writers Summer Workshop<br><br> 
 
+“Subject: RE: Original Hunter Farmer<br> 
+Thank you so much for sharing with me!! I printed off a copy for my husband to read also, especially the part that also addressed hunter girls. I’ve only a few minutes till I have to head back... will talk to you after Labor day. Thanks so much for keeping in touch. I love your stuff. The message is important, needs to get out there, and you have the guts to actually do it. The real value of the week was meeting people like you who are out there “doing it” and using it as a model to motivate myself to change my own habits and eliminate excuses yeh yeh. . . .. I’m cheering for ya. Thanks,<b> Tami Maisel</b><br><br> 
+
+<b>“</b>Larry, Right on! Your points are right on, very intelligent and I’ve never heard anybody talk about the Muslim problems from this angle. Larry, run for President, you’ve got my vote!<b> Neal Frankle,</b> CFP Wealth Resources Group<br><br> 
+
+<b>“</b>Larry I spoke with you yesterday by phone. I asked you about following the query letter inquiry in your book or following my instinct and sending a genuine complement to an editor for an article she wrote. You suggested the latter. I sent an email and made a few points about why I liked a specific article. Then mentioned I had a few ideas on future articles and requested a phone call to share some other feedback. She called me today and we discussed the article, the magazine’s vision and her start up struggles to get it up and going. She shared with me what she was trying to accomplish with its publication and that it had been a long time dream of hers. I offered myself as a resource for to network with people in my part of the state and she was thrilled. I also told her that if she ever needed to interview someone in my part of the state and was running behind a deadline, I would be glad to help. Then she asked if I could help her find someone to write a financial article each month. So after our 30 minute conversation today, not only will I get a shot at interviewing successful people for future articles in my target market, looks like I will also be writing a monthly column as well. Thanks for you expertise and for picking up your phone yesterday.<br> 
+<b>TK Troy A. Kestner,</b> CFP vice President Arvest Private Banking<br><br> 
+
+<b>“</b>Larry, I love this piece so much. It came out great in the magazine, and I have it on the syllabus to use in course on Literature of Love and War next semester; I posted the unpublished version in my course website this term and students loved it. They really connected with it, and the writing was definitely top-notch. Maybe you should write a memoir or essay collection that spans this portion of your life (“the Vietnam years”) and ends with this piece? You’re so talented and have so much to write about...
+<b>Aimee Berger,</b> Ph.D.<br><br> 
+
+<b>“</b>Subject: your small book How to Write. I am enjoying and reading carefully your little well organized tome on investment policy statement. It will be very relevant to a foreign assignment I am going on for the next three weeks. I am a financial consultant<br><br>
+
+and will be working on a project in Bosnia. I will use several of the themes you have used in your books in my work, there is another part of my work which is a bit more difficult. <b> John Wetherhold CFA</b><br><br>
+
+<b>“</b>Larry, Last night I drove home and thanked God (or whoever you pray too) for our meeting yesterday! It’s been a long time since I’ve met someone that I “look up too.” Bottom line, what you said made sense and it still makes sense...you made a powerful point by saying everything I was feeling and wanted to say but for one reason or another couldn’t...so thank you!!!  Anyway, yesterday was the first time in a long time that I actually felt optimistic about my future and I have YOU to thank for that! I’ll never forget the impact of our meeting last night! Thank you for EVERYTHING.<br><br> 
+<b>BT</b>
+
+<b>“</b>Subject: Good Article: The Income Barista You captured my investment philosophy to a <b>‘T’ Louis Cornell</b> <br><br> 
+
+<b>“</b>Great idea! I worked on this with the team today, and we’re now we’re gearing up to release the book on 9/7. I need to confirm that with our mfg. manager but that’s our intention. I’ve notified marketing and will discuss the new timeframe with publicity as well. On another note, could Jim write up a slightly more detailed analysis of what’s going on in the real estate market for our understanding as publishers? It would be incredibly helpful and we would be most appreciative. Many thanks Larry! <b> Jeanne Glasser</b> editor McGraw-Hill<br><br>
+<b>“</b>I enjoyed your book so much I’ve decided to consider Financial Planning as a career. I’ve been a professional trader most of my adult life on the floor of US futures exchanges. I have many friends and contacts that have made significant amounts of money on the floor only to manage it poorly off the floor. The biggest trick to financial success on the trading floor is not to have a market opinion, unfortunately it doesn’t translate well off the floor. So after some bad experiences on their own they turn to a broker/salesman and get taken advantage of. Do have a recommendation for training resources for myself? <b> Jay Sidie</b><br><br>
+
+<b>“</b>I just finished your excellent Roth 401(k) article in Financial Advisor. Thank you for sharing your insights. I have read probably a dozen articles on the Roth 401(k) and yours was by far the most comprehensive and useful. One question that I have, and may have just missed in the article, is whether a participant can withdraw contributions (as distinct from earnings) at any time without adverse tax consequences. If you have a moment to respond, I would be grateful. In any event, thank you again for sharing your expertise.<b> Steven M Sudeley </b>Financial Mgmt., LLC<br><br>
+
+
 
 
 
