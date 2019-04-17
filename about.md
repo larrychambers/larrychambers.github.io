@@ -222,7 +222,78 @@ and will be working on a project in Bosnia. I will use several of the themes you
 
 <b>“</b>I just finished your excellent Roth 401(k) article in Financial Advisor. Thank you for sharing your insights. I have read probably a dozen articles on the Roth 401(k) and yours was by far the most comprehensive and useful. One question that I have, and may have just missed in the article, is whether a participant can withdraw contributions (as distinct from earnings) at any time without adverse tax consequences. If you have a moment to respond, I would be grateful. In any event, thank you again for sharing your expertise.<b> Steven M Sudeley </b>Financial Mgmt., LLC<br><br>
 
+<b>“</b>Subject: The Fiduciary Audit File One of the best written articles that I have read in many years. Thank you. Would you mind if I mail it out to clients and prospects?  Thank you. <b>Dick Kamper</b><br><br>
 
+<b>“</b>Mr. Chambers, Thanks for sharing your thoughts regarding the significance of the Vietnam War. Ken Paulson, the editor, and I read your submission and appreciated the feedback. I also shared your comments with editors of The Forum page for review.  Best regards, <b>Brent Jones Reader </b>Editor, USA TODAY<br><br>
+
+<b>“</b>Great! We will use both articles that you sent, which fulfills the Gather promo. Thanks Seth M Marketing Manager <b>McGraw-Hill</b> Professional<br><br>
+
+<b>“</b>What a great story! I want to show it to my wife, who is chair of the English Dept. at a public middle school. (The line about serial killers is priceless.) <b> Richard J. Koreto</b><br><br>
+
+<b>“</b>The book proposal process was completely foreign to me. With support and coaching from Larry Chambers I moved from query to proposal acceptance in a fraction of the time it takes many new writers engaging in the publishing process. With the green light from Ten Speed Press (look forward to finding my book in the stores nationally next spring. <b>Joe Bruzzese</b> <br><br>
+
+<b>“</b>Larry: Thank you so much for your time last week, it was truly the most enjoyable and productive time spent in my career. As impressed as I was before meeting you, those expectations were exceeded greatly.  Thank you again, <b> Andrew</b><br><br>
+
+<b>“</b>I really am touched by your article, and must also admit to studying your style and how you develop a story. You do such a wonderful job of sharing your experiences while keeping focused on Dean Gibbons.  It’s truly a good deed to give thanks to those that helped us in our greatest times of need--a gesture we all would be wise to invest in from time to time. I hope you are at a good place in your life. You look quite reflective sitting on your pretty porch. Warm regards,  
+<b>Laura Editor Continuum University of Utah</b><br><br> 
+
+<b>“</b>My name is Matthew Kuln I’m 15 and live in Mattawan, MJ. I recently read your book Recondo and loved it. I just wanted to say than you for all of the shit you went through in Vietnam and want you to know that these are still many people who have the utmost respect for you.  I just wanted to say thank you for all you did for our country.<br><br> 
+<b>Matt Kuln</b><br><br> 
+
+<b>“</b>Wow, talk about a butterfly effect! I love how willing to be of service you are to ‘really anyone that asks. Your honesty mixed with your experience is hard to forget, which means you stand out. to have experience in something is great, but to use it as a guide to helps others is even better, and what your doing is mixing that with the TRUTH which puts you in whole separate category of un-stoppable force! You kinda of remind me of this rhino I saw. it’s a large strong focused rhino running towards it’s goal.  I saw that and I thought of my dad.  I love you. I love you. I love you.<br><br>  
+<b>Your Daughter Christin</b><br><br>
+
+<b>“</b>Dear Mr. Chambers - - - -I have always admired the country’s who “fought” the cold war....Here in Denmark we just <b>“</b>stayed low” and let NATO and the USA protect us, we even had the nerve to criticize the USA for fighting… In Denmark standing up for freedom is almost a dirty deed, sometimes l am ashamed of being Danish and that brings me to the point, you guy’s had to fight when you country asked, even when people was calling you baby killers and all that crap.  I also know that many Vietnam veterans have been given the shitty end of the stick many are dying like flies way to soon, and that makes me sad, no one should die of a horrible cancer age 50 because they at age 19 walked around in a jungle that has been sprayed with agent orange. Your Danish Friend  <b> Bo Hermansen Danish</b> Army's Dragoon Regiment, Armored scout, retired as an E 7 (SFC) in 2003.<br><br>
+
+<b>“</b>Greetings, Thanks for Recondo this is one of the few books about Nam that isn’t full of shit. Thanks for a book I could give my son to read so he could see some of what I went thru in Nam. Thanks. <b> J.C. Daigler Buffalo NY</b><br><br> 
+	
+<b>“</b>Inspired. Hell man... Your book Recondo was the best living testimony of the Vietnam War ever written! You’d got a gift, Larry. Through your pen I was a scared nineteen year old kid again. Your words made me feel Nam: noisy dirty, dangerous. History came alive. I’m sure solders in Iraq are alive today because of what you’ve written.  Your book taught them how to think. <b> George Getty</b><br><br>
+
+<b>“</b>Larry - You really helped me tie some things together Kolbe and the Hunter - Farmer epiphany.  Instinct, it has always been the x-factor few have attempted to understand, manage, harness, apply.  Personality, intelligence, and knowledge yes, instinct no, and where instinct has been acknowledged it has been more about the negative and what you should change, not why you should harness it and put it to work for you.<br><br>  
+<b>Jacob Barber</b> - Barber Helicopter<br><br>
+<b>“</b>Larry, Right on! Your points are right on, very intelligent and I’ve never heard anybody talk about the Muslim problems from this angle. Larry, run for President, you’ve got my vote! <b> Neal Frankle,</b> CFP Wealth Resources Group<br><br>
+
+<b>“</b>Greetings, Recondo is one of the few books about Nam that isn’t full of shit. Thanks for a book that I could give my son to read so he could see some of what I went thru in Nam. Thanks again and I enjoyed reading “Recondo’.  Good book.  <b>J.C.Daigier</b>, Buffalo, New York<br><br>
+
+<b>“</b>Mr. Chambers, I’ve started this email a dozen times over the past few years and felt a little silly about seeming like a kook fan, but I lost my dad 27 Dec, 03 and decided this is really important. I want to thank you on behalf of those of us whom never could hear our fathers’ memories and stories from Viet Nam. Thank you for telling us about what you went through. About the life-long friends, the pain, the triumph. My dad could only speak of very minor things. Anything beyond generalizations would cause him a breakdown. He was a Marine. I did as much research about any places or names as he would say, but it isn’t much. He did some recon too, though that was not his MOS. I guess I’m saying that your story is his story. You may have been in different areas, seen different things. But your sacrifice is the same. Another reason that I want to thank you is that since my dad could never speak of his experiences, I could never speak of my experiences. He would be the only one who would understand and I could be safe to tell. I spent time in places in the late ‘80s that we (the US) were not supposed to be. My teammates went into memory on some missions and I cannot speak of their sacrifice. So, thank you Sergeant Chambers. I feel like I know all of you better than my dad. No more blah, blah, blah from me. <b>Michael Bolton Former</b> 3\502, 101 ARN member<br><br>
+
+<b>“</b>December 6, 2012<br><br>
+Larry: I enjoyed speaking with you and look forward to speaking with1 you again. I loved RECONDO and have added it to my special collection, which is why I tracked you down to ask for a signature. You did an incredible job of transporting me to Vietnam, it was like I was on patrol with you. Thank you for signing it for me. It was one of those rare books that I just couldn’t put down and hated to finish.  <b>Kevin Basnight Oxford,</b> NC<br><br>
+
+Reviews Recondo: LRRPs in the 101st Airborne (Mass Market Paperback)<br><br>
+
+<b>*****</b>COMPLETELY EXCELLENT......., July 3, 2009  Lathrop on Stuff  
+Simply put, one of the best books I have ever read. The style is completely transparent...makes you feel like you know this guy very well and it puts you right there in the action with w complete suspension of disbelief. READ THIS BOOK.<br><br>
+
+<b>*****</b>Remarkable Story With First-Rate Writing, May 27, 2009<br><br> 
+	
+Jonathan Nelson   - This review is from: Recondo: LRRPs in the 101st Airborne (Audio Cassette)  I have long been a fan of books about history and military conflicts. I like to listen to audiobooks in the car while shuttling the kids around to and from school, so I was pretty pleased when I found an audio version of Recondo for cheap.   The content of the book is not a surprise. Recondo is the author's account of serving with a Long Range Recon unit during the Vietnam War. The book covers his experiences in the<br><br> 
+
+military from enlisting to going his experiences after the war. For others that have read other books about LRRPs, Recondo starts roughly about the same time as "Eyes of the Eagle" by Gary Linderer ends. Both authors served in the same unit, so if you have read Gary Linderer's books, there may be a bit of overlap.<br><br>  
+
+<b>“</b>What I did find surprising in this book is the author's ability to tell a story. In my opinion, Mr. Chambers is an extremely talented storyteller. Throughout the entire book, I felt as if I were there. His writings made me feel the excitement of battle, the fear of being the new guy and doing nothing right, and the dejection that came with no one seeming to care about the fact he made it home. Throughout the entire book, I felt as if I were sitting in the backyard with a beer, taking face to face with the author, watching the sunset with some steaks searing away on the grill.<br><br>  
+
+I particularly enjoyed the ending of the book. I like to read about the military and war. I am fascinated with the stories of the people who have served our fine nation, not really the blood and guts aspect. At the end of the book, the author discusses his return home. I found a scene that he described at a party particular disturbing, as it seemed no one cared about the fact this fine young man just came back from serving his country. It offered a glimpse of an aspect of war not covered by many books.<br><br>  
+
+The narrator of the audiobook, Brian Hallas, was an excellent choice. This deep, gravelly voice gave the feel of a story being told by an old, battle seasoned Sergeant. Personally, I would have paid twice as much for an unabridged version of this story.   Overall, this is one of the two best books I have heard/read on the Vietnam War. The author is a talented writer. I'd highly recommend this book to anyone interested.<br><br> 
+
+<b>*****</b>A Great Read, November 1, 2008  L. Schaefer  One of the best reads I've had in a while. Excitement and drama in every chapter. Unexpected chills and thrills also. I did not want to put the book down. Most of the training that was covered had to do with on the job training, which was the most dangerous. From ambushes to booby traps to the unexpected, this book had it all. It makes you appreciate the job previous and current armed forces personnel have done for this country.<br><br> 
+
+<b>“</b>Mr. Chambers- What excites me about your ideas is that through focusing we have been able to write articles and speak across the world...l feel like we know the benefit of focusing our marketing.  Look forward to your future articles and I’ll probably pick up a book or two. Regards, <b> Kyle Waller</b> Research Analyst Wiser Wealth Managemen.<br><br>  
+
+<h><h1><span class="center">Chambers Seminar feedback</span></h1></h><br><br> 
+Dennis Park: "Surprised! Wasn’t interested in publication previously."<br><br> 
+Richard McFarland: "Discovered it would be possible for me to draft an article to increase my exposure to my market."
+Dan McKenna: "This has been the most productive session to date. It gave us information that we can use writing letters, articles for clients and prospects."<br><br> 
+Chuck Putney: "It was great that he got us involved."<br><br> 
+
+Richard Pear: "Useful information. Very participatory."<br><br>  
+Carl Mehl: "Excellent material."<br><br> 
+Craig Martin: "Stimulated me to study how to write my articles."<br><br> 
+Bob Ericson: "Stimulated me to write my first article."<br><br> 
+Bobby Glass: "I plan to have an article published! I like his strategic approach."<br><br> 
+George Brown: "Best treatment I have seen on writing and publishing articles."<br><br> 
+Carl A. Munding: "Multifaceted resource yet can focus – a real plus."<br><br> 
 
 
 
