@@ -89,7 +89,7 @@ I’m glad a bunch of VA staff (nurses, counselors, psychiatrists, admin people,
 "I am really digging this. . . Taking the Heroes Journey and it with the investors self- inventory is quite brilliant. I am only through one third of the book - seems a worthy contribution to this economic conversation that is full of wildly differing lenses. It feels almost holy. I would offer<br><br>  
 
 one idea. . . There are places where the royal "we" could be used instead of 'I" and there are places where I is crucial. Perhaps you might figure out where it becomes more impactful to use this? At any rate, WOW."
-- from mom<h><h1><b>Ari 2017</b></h1></h> 
+- from mom<b>Ari 2017</b>
 
 <br><br>
 <b>“</b>Perhaps it’s no surprise that Larry Chambers is a big fan of the written word, since he’s authored some 40 books (not all under his own name) and close to 2,000 magazine articles. He believes that an advisor who becomes “a local celebrity, even on a simple topic” by writing pieces for a local newspaper or a trade magazine will reap benefits in two ways: the process of researching, writing, and editing the articles will help you focus on what you know and what you can offer clients; and the articles will continue to serve as marketing vehicles for years to come.
@@ -105,7 +105,7 @@ As for marketing mistakes, the biggest one, he says, “is to do nothing” and 
 <b>“</b>Thanks, Larry. Your message is healing. I don't think it's ever easy to share in public, but as you say, exposure helps get rid of the negative charge around shame. Please keep me posted on your public presentations. I know you'll be at Ojai WordFest soon and I'm hoping my husband can hear you speak then.<br><br>
 
 Many thanks for all the good work that you do, 
-<h><b><h1>Carolyn Moore Ojai, CA</h1></b>
+<b>Carolyn Moore Ojai, CA</b>
 
 <b>“</b>Mr. Chambers, Every once in a while there’s a great article from the many trade magazines we get here, as was your recent article, “Fear Is Not A Growth Strategy”. You included some great facts and some great ideas. They’re many things in the article that I’ll do tonight so that we’ll begin to implement tomorrow.  In particular, I like the idea of tribes of people and how advisors seem to appear the same to the general public. <b>Kelli Waller CFA</b><br><br> 
 
